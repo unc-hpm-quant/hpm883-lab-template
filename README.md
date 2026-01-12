@@ -33,6 +33,26 @@ git push
 
 ---
 
+## Choose Your IDE (Codespaces)
+
+When you open this repository in GitHub Codespaces, you'll see VS Code in your browser. You have two options for working with R:
+
+### Option A: VS Code (Browser)
+Work directly in the VS Code interface that opens. The R extension is pre-installed.
+- Open `analysis.qmd`
+- Run code chunks with `Ctrl+Enter` (`Cmd+Enter` on Mac)
+- Use the R terminal in the bottom panel
+
+### Option B: RStudio Server
+If you prefer the familiar RStudio interface:
+1. Look at the **PORTS** tab in the bottom panel
+2. Find port **8787** (labeled "RStudio Server")
+3. Click the **globe icon** to open RStudio in a new browser tab
+
+Both IDEs work with the same files — choose whichever you're more comfortable with.
+
+---
+
 ## Repository Structure
 
 ```
