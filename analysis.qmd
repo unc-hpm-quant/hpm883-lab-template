@@ -33,7 +33,7 @@ By the end of this lab, you will be able to:
 5. Perform basic regression analysis with robust standard errors
 6. Render Quarto documents and submit via GitHub
 
----
+***
 
 ## Part 0: Getting Started
 
@@ -88,7 +88,7 @@ You should see:
 If any of these are missing, raise your hand or post in the chat!
 :::
 
----
+***
 
 ## Part 1: Project Organization
 
@@ -178,7 +178,7 @@ After running the code above:
 - `file.exists()` returns `TRUE`
 :::
 
----
+***
 
 ## Part 2: Version Control with Git
 
@@ -255,7 +255,7 @@ After pushing:
 Congratulations — you just did version control!
 :::
 
----
+***
 
 ## Part 3: R Environment & Packages
 
@@ -318,7 +318,7 @@ renv::restore()
 Then try loading the packages again.
 :::
 
----
+***
 
 ## Part 4: Basic Analysis Workflow
 
@@ -457,7 +457,7 @@ ggplot(df, aes(x = factor(treatment), y = outcome_score)) +
 ```
 :::
 
----
+***
 
 ## Part 5: Render & Submit
 
@@ -501,7 +501,8 @@ Your GitHub repository should now show:
 **That's it!** You've completed Lab 0.
 :::
 
----
+***
+
 ## Troubleshooting
 
 | Issue | Solution |
@@ -512,7 +513,7 @@ Your GitHub repository should now show:
 | Codespace is slow | Normal first time; future loads are faster |
 | Can't find Git pane | Go to View → Show Git |
 
----
+***
 
 ## Key Takeaways
 
@@ -521,7 +522,7 @@ Your GitHub repository should now show:
 3. **renv ensures package consistency** — Lock your dependencies for reproducibility
 4. **Quarto combines code + narrative** — One document, reproducible results
 
----
+***
 
 ## What's Next?
 
@@ -530,7 +531,7 @@ Your GitHub repository should now show:
 - **Solutions:** Available after class session ends
 - **Questions?** Post on Canvas Discussions or come to office hours
 
----
+***
 
 ## Session Info
 
