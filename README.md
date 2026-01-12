@@ -109,4 +109,19 @@ git log --oneline -5    # See recent commits
 
 ---
 
+## Getting Solutions
+
+Solutions are released after each lab deadline.
+
+**To access solutions:**
+```bash
+git pull
+```
+
+Once solutions are released, `analysis-sols.qmd` will appear in your repository.
+
+> **Note:** Solutions are not available until after the submission deadline.
+
+---
+
 *HPM 883: Advanced Quantitative Methods | Spring 2026*
